@@ -45,7 +45,7 @@ header,#title,#banner,#taskbar{
 
 #taskbar ul li a:hover{
     background-color:rgb(81, 81, 131);
-    color: black;
+    color:black;
 }
 
 #title{
@@ -142,6 +142,7 @@ header,#title,#banner,#taskbar{
     width: 200px;
 
 }
+
 .about-section{
     max-width: 100%;
     width:  200%;
